@@ -1,3 +1,6 @@
+<img src="https://community.intersystems.com/sites/default/files/inline/images/archived.gif" width=100></img>
+<b>&nbsp;no maintenance or update</b> 
+
 Good old CSP is well equipped to produce HTML tables accepted from EXCEL as input.  
 With modern Browsers you don't even need <head> and  <body> tags.  
 So the required code around your SQL result set is really slim.  
